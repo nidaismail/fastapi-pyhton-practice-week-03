@@ -69,7 +69,7 @@ uv sync
 Start the development server:
 
 ```bash
-uv run uvicorn orders_api.orders:app --reload --app-dir src
+uv run fastapi dev
 ```
 
 Open the API documentation:
