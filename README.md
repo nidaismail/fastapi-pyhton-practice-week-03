@@ -39,6 +39,13 @@ The project includes sample order records:
 | A102 | Bilal Traders | 12,800 | Delivered |
 | A103 | Karachi Crafts | 2,300 | Pending |
 
+### Screenshot
+
+![](./Screenshot.png)
+
+### Code Screenshot
+![](./Screenshot-code.png)
+
 ## Running the Project
 
 Clone the repository:
